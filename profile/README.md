@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../images/Automation&Computational Design_MM_colors.png" width="1000" alt="MottMacdonald">
+	<img src="https://github.com/mottmacdonaldglobal/.github/raw/main/images/Automation&Computational Design_MM_colors.png" width="960" alt="MottMacdonald">
 </div>
 
 ## Do you need some introduction learning? 📖
