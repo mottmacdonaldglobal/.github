@@ -1,6 +1,7 @@
 <div align="center">
 	<img src="images/logo.svg" width="700" height="350" alt="MottMacdonald">
-	<h3><b>Opening opportunities with connected thinking. We turn the obstacles you face into sustainable infrastructure and development solutions.</b></h3>
+	<h3><b>Opening opportunities with connected thinking. <br> 
+	We turn the obstacles you face into sustainable infrastructure and development solutions.</b></h3>
 </div>
 
 ## Get Involved 💻
