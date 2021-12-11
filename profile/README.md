@@ -3,7 +3,7 @@
 </div>
 
 ## Do you need some introduction learning? 📖
-* [`GitHub basic leaerning path`](https://portal.pinnacleseries.com/#/learningcenter/series?learningPathId=a6b54a3d-cba1-42cd-8935-7bc57eb68f56)
+* [`GitHub basic learning path`](https://portal.pinnacleseries.com/#/learningcenter/series?learningPathId=a6b54a3d-cba1-42cd-8935-7bc57eb68f56)
 * [`GitHub intro`](https://portal.pinnacleseries.com/#/home)
 * [`GitHub learning lab 1hr course`](https://lab.github.com/githubtraining/introduction-to-github)
 * [`GitHub learning about team`](https://docs.github.com/en/enterprise-server@3.3/organizations/organizing-members-into-teams/about-teams)
