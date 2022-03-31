@@ -2,8 +2,8 @@
 	<img src="https://github.com/mottmacdonaldglobal/.github/raw/main/images/Automation&Computational Design_MM_colors.png" width="960" alt="MottMacdonald">
 </div>
 
+## [`MMG Repository Naming Convention`](https://mottmac.sharepoint.com/:b:/s/pr-00019/EeVPhHji3IdBsbHLj8lRs9EBDwv1z-TosgY9dkEaLz7qXw?e=HYLrRD&isSPOFile=1)
 ## Do you need some introduction learning? 📖
-* [`MMG Naming Convention`](https://mottmac.sharepoint.com/:b:/s/pr-00019/EeVPhHji3IdBsbHLj8lRs9EBDwv1z-TosgY9dkEaLz7qXw?e=HYLrRD&isSPOFile=1)
 * [`GitHub basic learning path`](https://portal.pinnacleseries.com/#/learningcenter/series?learningPathId=a6b54a3d-cba1-42cd-8935-7bc57eb68f56)
 * [`GitHub intro`](https://portal.pinnacleseries.com/#/home)
 * [`GitHub learning lab 1hr course`](https://lab.github.com/githubtraining/introduction-to-github)
