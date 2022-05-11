@@ -6,7 +6,7 @@
 ## [`MottMac Team`](https://github.com/orgs/mottmacdonaldglobal/teams/mottmac)
 ## [`MM Templates`](https://github.com/orgs/mottmacdonaldglobal/repositories?q=&type=template&language=&sort=)
 ## [`Sandbox`](https://github.com/mottmacdonaldglobal/Sandbox)
-## [`Sandbox`](https://github.com/orgs/mottmacdonaldglobal/teams/coding-clubs)
+## [`Coding Clubs`](https://github.com/orgs/mottmacdonaldglobal/teams/coding-clubs)
 ## Do you need some introduction learning? 📖
 * [`GitHub basic learning path`](https://portal.pinnacleseries.com/#/learningcenter/series?learningPathId=a6b54a3d-cba1-42cd-8935-7bc57eb68f56)
 * [`GitHub intro`](https://portal.pinnacleseries.com/#/home)
